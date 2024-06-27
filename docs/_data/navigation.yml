@@ -1,8 +1,8 @@
 main:
   - title: "Lessons"
-    url: /docs/_pages/lessons
+    url: /lessons/
   - title: "About"
-    url: /docs/_pages/cv
+    url: /about/
     
 docs:
   - title: Getting Started
